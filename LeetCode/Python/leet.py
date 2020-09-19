@@ -17,6 +17,8 @@
 # print(twoSum(nums = [ 3, 2, 4],target = 6))
 
     # palindrome multiplication with three digit numbers in reverse order
+    
+# creating a linked list
 
 class Node:
     def __init__(self, dataval= None):
